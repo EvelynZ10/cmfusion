@@ -43,5 +43,8 @@ Run multimodal fusion experiments using:
 ```bash
 python CMFusion.py
 
+---
+
 ## Acknowledgements
-This study builds upon the baseline code architecture released by the HateMM team. We gratefully acknowledge their contributions in providing the high-quality multimodal hate speech detection dataset and baseline model implementation.
+
+*This study builds upon the baseline code architecture released by the HateMM team. We gratefully acknowledge their contributions in providing the high-quality multimodal hate speech detection dataset and baseline model implementation.*
