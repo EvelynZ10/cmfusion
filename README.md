@@ -39,9 +39,7 @@ The dataset is divided into **5 folds** to ensure consistent training/testing sp
 ---
 
 ## CMFusion Model
-Run multimodal fusion experiments using:
-```bash
-python CMFusion.py
+Run multimodal fusion experiments using: `CMFusion.py`
 
 ---
 
